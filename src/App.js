@@ -1,7 +1,6 @@
 import React from 'react'
 import './App.css';
 import VideoList from './Thumbnail';
-import Header from './Header'
 function App() {
 
   let videoData = [
