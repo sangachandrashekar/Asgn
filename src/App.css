@@ -1,0 +1,44 @@
+
+
+header{
+  background-color: black;
+  padding: 15px;
+}
+header a{
+  color:white;
+  padding: 0px 15px;
+}
+.video-thumbnail{
+  width: 350px;
+  height: 300px;
+  border-radius: 5px;
+}
+.channel-logo{
+  width: 35px;
+  height: 30px;
+  border-radius: 20px;
+}
+.video-card{
+  width:350px;
+  margin: 10px auto;
+;
+}
+.channel-name{
+  padding-left: 10px;
+  font-weight: bold;
+}
+.video-title{
+  margin: 0px;
+  padding-bottom: 10px;
+}
+.logo{
+  display: flex;
+  flex-wrap: wrap;
+}
+.like{
+  width: 20px;
+  height:20px;
+}
+.views .views{
+  margin: 0px;
+}
